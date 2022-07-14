@@ -1,0 +1,72 @@
+	body {
+		background: white-space;
+	}
+	
+	h1 {
+	color: dark-green;
+	}
+	footer {
+	color: silver;
+	}
+	
+	.main {
+		max-width: 1000px;
+		margin: 0 auto;
+	}
+	
+	.navigations {
+		background: green;
+		padding: 16px;
+		border-radius: 8px;
+	}
+	
+	.navigations__link {
+		color: white;
+		display: inline-block;
+		margin-right: 40px;
+	}
+	
+	.obramowka {
+		padding: 16px;
+		border: 1px #ccc solid;
+		margin-bottom: 15px;
+	}
+	
+	.tytul {
+		color: #3F403F;
+		text-align: center
+	}
+	
+	.tekst1 {
+		color: maroon;
+	}
+	
+	.mainheading {
+		color: Black;
+		text-align: center
+	}
+	
+	.tekst2 {
+		background: green;
+		color: white;
+		padding: 80px;
+		border-width: 30px;
+		border-radius: 50%;
+		display: inline-block;
+		margin-right: 90px;
+	}
+	
+	.foto1 {
+		width: 100%;
+	}
+	
+	.foto2 {
+		padding: 20px;
+		text-align: center;
+		width: 37%;
+	}
+	
+	.odnosnik {
+		color: grey;
+	}
+	
